@@ -1,0 +1,23 @@
+.Sidebar {
+  text-align: left;
+  height: 100vh;
+  width: 360px;
+}
+
+.Chats {
+  height: 100%;
+  overflow-y: scroll;
+}
+
+.userChatInfo {
+  span {
+    font-size: 15px;
+    font-weight: 700;
+  }
+  p {
+    margin: 0;
+    font-size: 15px;
+    font-weight: 400;
+    color: #605E5C;
+  }
+}
