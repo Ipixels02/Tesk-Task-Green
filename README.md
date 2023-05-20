@@ -40,6 +40,8 @@
 
 Клонировать репо
 
+### `git clone https://github.com/Ipixels02/tesk-task-green.git`
+
 ### `npm start`
 
 Установка зависимостей
