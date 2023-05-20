@@ -8,8 +8,8 @@ export enum AppRoutes {
 }
 
 export const RoutePath: Record<AppRoutes, string> = {
-    [AppRoutes.MAIN]: '/',
-    [AppRoutes.LOGIN]: '/login'
+    [AppRoutes.LOGIN]: '/',
+    [AppRoutes.MAIN]: '/main'
 }
 
 export const routeConfig: Record<AppRoutes, RouteProps> = {

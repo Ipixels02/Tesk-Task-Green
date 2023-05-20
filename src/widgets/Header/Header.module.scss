@@ -1,0 +1,19 @@
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  img {
+    width: 24px;
+    height: 24px;
+  }
+}
+
+.logout {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+
+}
+

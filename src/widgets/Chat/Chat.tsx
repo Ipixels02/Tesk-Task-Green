@@ -1,18 +1,15 @@
 import React from 'react';
 import cls from './Chat.module.scss';
-import {Input} from "../../shared/ui/Input/Input";
-import message from "../../assets/message.svg";
-import {Messages} from "../Messages/Messages";
+import {Header} from "../Header/Header";
+import {Messanger} from "../Messanger/Messanger";
 
 export const Chat = () => {
     return (
         <div className={cls.Chat}>
             <div className="App-header">
-                <img src={message} alt=""/>
-                <h4>Great Project</h4>
+                <Header/>
             </div>
-            <Messages/>
-            <Input/>
+            <Messanger />
         </div>
     );
 };
