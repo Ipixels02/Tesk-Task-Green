@@ -2,7 +2,6 @@ import React, {FC, JSX} from "react";
 
 import cls from "./modal.module.scss";
 
-import {Button} from "../Button/Button";
 import closeI from "../../../assets/close.svg"
 
 type TModal = {

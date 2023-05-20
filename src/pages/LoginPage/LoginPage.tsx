@@ -11,11 +11,8 @@ import {TFormStateType} from "../../shared/services/Types/data";
 import {loginAction} from "../../shared/services/actions/authorization";
 import {AppRoutes} from "../../shared/config/routeConfig/routeConfig";
 
-interface LoginPageProps {
-    className?: string
-}
 
-export const LoginPage = ({ className }: LoginPageProps) => {
+export const LoginPage = () => {
     const navigate: NavigateFunction = useNavigate();
     const dispatch = useAppDispatch();
     const [error, setError] = useState<boolean>(false);

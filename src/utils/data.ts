@@ -1,7 +1,3 @@
-import Elon from "../assets/avatar//ElonMask.png";
-import Jeff from "../assets/avatar//JeffBezos.png";
-import Mark from "../assets/avatar/MarkZuckerberg.png";
-
 import { TContacts } from "../shared/services/Types/data";
 
 const BASE_URL: string = "https://api.green-api.com";

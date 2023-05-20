@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React from 'react';
 import message from "../../assets/message.svg";
 import cls from "./Header.module.scss"
 

@@ -1,4 +1,4 @@
-import React, {FC, useEffect} from "react";
+import React, {useEffect} from "react";
 
 import cls from './Messanger.module.scss';
 
@@ -13,7 +13,6 @@ import {getHistoryChatAction} from "../../shared/services/actions/chatHistory";
 import {delNotificationAction} from "../../shared/services/actions/delNotification";
 import {getNotificationAction} from "../../shared/services/actions/getNotification";
 import {Message} from "../Message/Message";
-import {Button} from "../../shared/ui/Button/Button";
 
 export const Messanger = () => {
     const dispatch = useAppDispatch();
