@@ -58,4 +58,4 @@
 
 ## Ссылка на сайт
 
-### `https://green-api-task.netlify.app/`
+[GreenApiTask](https://green-api-task.netlify.app/)
