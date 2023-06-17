@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/test-task-green/static/css/main.7d50a766.css",
+    "main.js": "/test-task-green/static/js/main.55d7b46a.js",
+    "static/media/Placeholder 48.svg": "/test-task-green/static/media/Placeholder 48.97c2d8f028828d1103465482e053e63e.svg",
+    "static/media/message.svg": "/test-task-green/static/media/message.e4a599904e3929cb3969f9392806b573.svg",
+    "static/media/close.svg": "/test-task-green/static/media/close.2111343615afec3ca3fdb25bbbe622a2.svg",
+    "static/media/file.svg": "/test-task-green/static/media/file.253a0de84adad3390340ac5661fae6fd.svg",
+    "static/media/read.svg": "/test-task-green/static/media/read.a5303f177265daf409c00a0470de3105.svg",
+    "index.html": "/test-task-green/index.html",
+    "static/media/send.svg": "/test-task-green/static/media/send.28f253e8d279e50bd7ed68871161a3c8.svg",
+    "main.7d50a766.css.map": "/test-task-green/static/css/main.7d50a766.css.map",
+    "main.55d7b46a.js.map": "/test-task-green/static/js/main.55d7b46a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d50a766.css",
+    "static/js/main.55d7b46a.js"
+  ]
+}
