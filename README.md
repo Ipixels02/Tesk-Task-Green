@@ -56,6 +56,10 @@
 
 ### `npm run`
 
+### Вход в чат
+
+Чтобы получить доступ для входа и воспользоваться чатом, необходимо по ссылке https://console.green-api.com/auth произвести регистрацию, и получить необходимые idInstance и apiTokenInstance
+
 ## Ссылка на сайт
 
 [GreenApiTask](https://green-api-task.netlify.app/)
